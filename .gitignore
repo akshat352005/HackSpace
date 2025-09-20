@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+/dist
+/.wrangler
+.env
+.env.*
+.vscode
+.idea
+*.log
+coverage
+
